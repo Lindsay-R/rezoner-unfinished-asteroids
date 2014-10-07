@@ -1,9 +1,10 @@
 var app = playground({
 
-  width: 320,
-  height: 240,
 
-  scaleToFit: false,
+  width: 640,
+  height: 480,
+
+  scaleToFit: true,
 
   smoothing: true,
 
